@@ -1,5 +1,6 @@
 ## Ubuntu_Setup
-[참고](https://github.com/changh95/setup_ubuntu.git)
+
+<!-- [참고](https://github.com/changh95/setup_ubuntu.git) -->
 
 ### Apps / IDEs
 | Tool | 설명 |
@@ -42,7 +43,7 @@
 ### Input / Language Support
 | Tool | 설명 |
 |------|------|
-| kime | 한글 입력기 (선택 설치) |
+| kime | 한글 입력기 |
 
 ---
 
