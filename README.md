@@ -47,7 +47,7 @@
 
 ---
 
-## 사용법
+## How to use
 
 ```bash
 chmod +x setup.sh
