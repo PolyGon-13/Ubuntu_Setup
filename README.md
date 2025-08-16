@@ -1,4 +1,4 @@
-## Ubuntu_Setup
+## Ubuntu_Setup (22.04 lts)
 
 <!-- [참고](https://github.com/changh95/setup_ubuntu.git) -->
 
